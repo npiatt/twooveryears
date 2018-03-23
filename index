@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <title>Two Over Years</title>
-<link href=" twooveryears/.gitignore/background.png favicon.ico" rel="shortcut icon"/>
+<link href="twooveryears/favicon.ico" rel="shortcut icon"/>
 <style>
 	body, html{
     height: 100%;
-    background-image: url("twooveryears/.gitignore/background.png ");
+    background-image: url("twooveryears/background.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
